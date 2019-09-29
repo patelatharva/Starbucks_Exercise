@@ -20,17 +20,17 @@ Our goal is to maximize the following metrics:
 
 IRR depicts how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion. Mathematically, it's the ratio of the number of purchasers in the promotion group to the total number of customers in the purchasers group (_treatment_) minus the ratio of the number of purchasers in the non-promotional group to the total number of customers in the non-promotional group (_control_).
 
-$ IRR =  (\frac{N_{Treat\_Purchase}}{N_{Treat}}) - (\frac{N_{Control\_Purchase}}{N_{Control}}) $
+$IRR =  (\frac{N_{Treat\_Purchase}}{N_{Treat}}) - (\frac{N_{Control\_Purchase}}{N_{Control}})$
 
 * **Net Incremental Revenue (NIR)**
 
 NIR depicts how much is made (or lost) by sending out the promotion. Mathematically, this is 10 times the total number of purchasers that received the promotion minus 0.15 times the number of promotions sent out, minus 10 times the number of purchasers who were not given the promotion.
 
-$ NIR = (R_{Treat} \cdot N_{Treat\_Purchase} - C_{Treat} \cdot N_{Treat}) - (R_{Control} \cdot N_{Control\_Purchase}) $
+$NIR = (R_{Treat} \cdot N_{Treat\_Purchase} - C_{Treat} \cdot N_{Treat}) - (R_{Control} \cdot N_{Control\_Purchase})$
 
 In this case,
 
-$ NIR = (10 \cdot N_{Treat\_Purchase} - 0.15 \cdot N_{Treat}) - (10 \cdot N_{Control\_Purchase}) $
+$NIR = (10 \cdot N_{Treat\_Purchase} - 0.15 \cdot N_{Treat}) - (10 \cdot N_{Control\_Purchase})$
 
 Here, I have applied different approaches for modeling this problem and used Regularized Gradient Boosting algorithm (XGBoost) to predict whether the person is likely to purchase product after receiving promotion.
 
