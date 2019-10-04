@@ -1,5 +1,5 @@
-- Project Notebook: [https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb](https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb)  
 - Explanatory Blog post on Medium: [https://towardsdatascience.com/how-to-target-promotions-with-conversion-prediction-model-to-maximize-net-incremental-revenue-f51dabdb6320?source=friends_link&sk=3707a9a742ad170ac03ffcb9a10aa87b](https://towardsdatascience.com/how-to-target-promotions-with-conversion-prediction-model-to-maximize-net-incremental-revenue-f51dabdb6320?source=friends_link&sk=3707a9a742ad170ac03ffcb9a10aa87b)  
+- Project Notebook: [https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb](https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb)  
 
 ## How to target promotions with conversion prediction model to maximize Net Incremental Revenue?
 
