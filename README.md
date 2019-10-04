@@ -25,4 +25,5 @@ Here, I have applied different approaches for modeling this problem and used Reg
 
 Based on this prediction, the algorithm recommends whether to send promotion to the person or not.
 
-You can learn more from [the project notebook available here.](https://patelatharva.github.io/Starbucks_Exercise/Starbucks.html)
+- Explanatory Blog post on Medium: [https://towardsdatascience.com/how-to-target-promotions-with-conversion-prediction-model-to-maximize-net-incremental-revenue-f51dabdb6320?source=friends_link&sk=3707a9a742ad170ac03ffcb9a10aa87b](https://towardsdatascience.com/how-to-target-promotions-with-conversion-prediction-model-to-maximize-net-incremental-revenue-f51dabdb6320?source=friends_link&sk=3707a9a742ad170ac03ffcb9a10aa87b)  
+- Project Notebook: [https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb](https://nbviewer.jupyter.org/github/patelatharva/Starbucks_Exercise/blob/master/Starbucks.ipynb)  
